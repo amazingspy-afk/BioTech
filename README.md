@@ -42,7 +42,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - anmol.tems@gmail.com
+Anmol Singh - anmol.tems@gmail.com
 
-Project Link: https://github.com/YourUsername/BioConnect-Plugin (Update with your actual GitHub link)
+Project Link: https://github.com/amazingspy-afk/BioConnect-Plugin (Update with your actual GitHub link)
 
