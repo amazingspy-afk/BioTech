@@ -42,7 +42,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - anmol.tems@gmail.com
+Anmol ingh- anmol.tems@gmail.com
 
-Project Link: https://github.com/YourUsername/BioConnect-Plugin (Update with your actual GitHub link)
+Project Link: https://github.com/anmol-tems/BioConnect-Plugin 
 
